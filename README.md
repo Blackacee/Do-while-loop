@@ -1,2 +1,6 @@
 # Do-while-loop
-Do...while loop in JS 
+
+var i = 101;
+do {
+ console.log(i);
+} while (i < 100);
